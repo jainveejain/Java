@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CDAC_project/src"/>
+	<classpathentry kind="src" path="Day3_Class_Objects/src"/>
+	<classpathentry kind="src" path="Day3.1_PackageDemo/src"/>
+	<classpathentry kind="src" path="Day4.1_PackageDemo/src"/>
+	<classpathentry kind="src" path="Day4.2_Class_Object/src"/>
+	<classpathentry kind="src" path="Day4.3_Class_Static/src"/>
+	<classpathentry kind="src" path="Day5.1_Class_Static/src"/>
+	<classpathentry kind="src" path="Day5.2_Inheritance/src"/>
+	<classpathentry kind="src" path="Day6.1_Inheritance/src"/>
+	<classpathentry kind="src" path="Day6.2_Final_ObjectClass/src"/>
+	<classpathentry kind="src" path="Day6.3_AbstractClass/src"/>
+	<classpathentry kind="src" path="Day7.1_Inheritance_abstract/src"/>
+	<classpathentry kind="src" path="Day7.2_LambdaExpression/src"/>
+	<classpathentry kind="output" path="CDAC_project/bin"/>
+</classpath>
